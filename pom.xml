@@ -8,5 +8,7 @@
     <artifactId>QLIS</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <!--<groupId>QLIS</groupId>-->
+    <!--<artifactId>QLIS</artifactId>-->
+    <!--<version>1.0-SNAPSHOT</version>-->
 </project>
